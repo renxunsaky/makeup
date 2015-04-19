@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "makeup",
+    "packageName": "com.surpassun.makeup",
+    "packageFolder": "com/surpassun/makeup",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "7f9817adea129577e1e77047be68d5eaa450cdf6"
+  }
+}
